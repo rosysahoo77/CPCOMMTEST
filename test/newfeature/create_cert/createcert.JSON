@@ -1,0 +1,7 @@
+{
+  "createcert":
+          {
+            "ECDSA parameter filename":"/etc/ssl/dsaparams/ecdsaparam.pem"
+
+          }
+}
